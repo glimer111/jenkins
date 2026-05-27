@@ -1,0 +1,10 @@
+{
+  "Make": "Toyota",
+  "Model": "Prius",
+  "Year": 2011,
+  "Style": "Hatchback",
+  "Distance": 195000.0,
+  "Engine_capacity_cm3": 1800.0,
+  "Fuel_type": "Hybrid",
+  "Transmission": "Automatic"
+}
